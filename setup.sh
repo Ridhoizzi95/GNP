@@ -360,7 +360,7 @@ function password_default() {
     <code>User Script:</code> <code>$username</code>
     <code>Exp Script :</code> <code>$exp</code>
     ============================
-     ©Copyright 2023 By Ridhoizzi
+    Copyright © 2023 By Ridhoizzi
     ============================
 "
 
